@@ -3,6 +3,7 @@ attrs==24.2.0
 blinker==1.8.2
 cachetools==5.5.0
 certifi==2024.8.30
+setuptools
 charset-normalizer==3.3.2
 click==8.1.7
 contourpy==1.1.1
@@ -21,7 +22,7 @@ MarkupSafe==2.1.5
 matplotlib==3.7.5
 mdurl==0.1.2
 narwhals==1.6.0
-numpy==1.24.4
+numpy>=1.26.0,<2.0
 opencv-python==4.10.0.84
 packaging==24.1
 pandas==2.0.3
