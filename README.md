@@ -2,7 +2,7 @@
 
 This is a Streamlit-based web application that allows users to upload and edit image with various adjustments.
 
-![Screenshot](https://github.com/iamalex33329/streamlit-image-editor/blob/main/images/Screenshot.png)
+![Screenshot](https://github.com/iamalex33329/streamlit-image-editor/blob/master/images/Screenshot.png)
 
 ## Features
 
